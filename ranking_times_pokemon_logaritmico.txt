@@ -1,0 +1,1005 @@
+RANKING DE TIMES POKÉMON - LÓGICA LOGARÍTMICA
+Critério: BST + (Log(Score Tipagem + 1) * 20) para positivos.
+Punição: Score Tipagem * 1.5 para negativos.
+==========================================================================================
+
+TIME RANK #1
+Score Otimizado: 3771.57 | Total BST: 3331
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #2
+Score Otimizado: 3769.00 | Total BST: 3341
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #3
+Score Otimizado: 3769.00 | Total BST: 3341
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #4
+Score Otimizado: 3765.88 | Total BST: 3344
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #5
+Score Otimizado: 3765.88 | Total BST: 3344
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #6
+Score Otimizado: 3764.70 | Total BST: 3307
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #7
+Score Otimizado: 3764.32 | Total BST: 3352
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #8
+Score Otimizado: 3764.32 | Total BST: 3352
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #9
+Score Otimizado: 3762.57 | Total BST: 3322
+--------------------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #10
+Score Otimizado: 3762.13 | Total BST: 3317
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #11
+Score Otimizado: 3762.13 | Total BST: 3317
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #12
+Score Otimizado: 3760.03 | Total BST: 3319
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #13
+Score Otimizado: 3760.03 | Total BST: 3319
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #14
+Score Otimizado: 3760.00 | Total BST: 3332
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #15
+Score Otimizado: 3760.00 | Total BST: 3332
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #16
+Score Otimizado: 3758.38 | Total BST: 3344
+--------------------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #17
+Score Otimizado: 3757.45 | Total BST: 3328
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #18
+Score Otimizado: 3757.45 | Total BST: 3328
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #19
+Score Otimizado: 3755.70 | Total BST: 3298
+--------------------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #20
+Score Otimizado: 3753.13 | Total BST: 3308
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #21
+Score Otimizado: 3753.13 | Total BST: 3308
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #22
+Score Otimizado: 3750.83 | Total BST: 3304
+--------------------------------------------------
+• Oreon           | Tipo: Fairy/Dark        | BST: 525 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #23
+Score Otimizado: 3748.65 | Total BST: 3309
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #24
+Score Otimizado: 3748.65 | Total BST: 3309
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #25
+Score Otimizado: 3748.26 | Total BST: 3314
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Oreon           | Tipo: Fairy/Dark        | BST: 525 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #26
+Score Otimizado: 3748.26 | Total BST: 3314
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Oreon           | Tipo: Fairy/Dark        | BST: 525 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #27
+Score Otimizado: 3748.06 | Total BST: 3283
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #28
+Score Otimizado: 3748.06 | Total BST: 3283
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #29
+Score Otimizado: 3747.85 | Total BST: 3328
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #30
+Score Otimizado: 3746.75 | Total BST: 3324
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #31
+Score Otimizado: 3745.57 | Total BST: 3305
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #32
+Score Otimizado: 3745.52 | Total BST: 3324
+--------------------------------------------------
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #33
+Score Otimizado: 3745.28 | Total BST: 3338
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #34
+Score Otimizado: 3745.28 | Total BST: 3338
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #35
+Score Otimizado: 3744.18 | Total BST: 3334
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #36
+Score Otimizado: 3744.18 | Total BST: 3334
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #37
+Score Otimizado: 3743.51 | Total BST: 3283
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #38
+Score Otimizado: 3743.00 | Total BST: 3315
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #39
+Score Otimizado: 3743.00 | Total BST: 3315
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #40
+Score Otimizado: 3742.95 | Total BST: 3334
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #41
+Score Otimizado: 3742.95 | Total BST: 3334
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #42
+Score Otimizado: 3742.07 | Total BST: 3301
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Condoom         | Tipo: Water/Poison      | BST: 525 | Score Tipagem:  58.00 (Ajustado:  81.55)
+
+TIME RANK #43
+Score Otimizado: 3742.07 | Total BST: 3301
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Condoom         | Tipo: Water/Poison      | BST: 525 | Score Tipagem:  58.00 (Ajustado:  81.55)
+
+TIME RANK #44
+Score Otimizado: 3741.15 | Total BST: 3309
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #45
+Score Otimizado: 3741.15 | Total BST: 3309
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #46
+Score Otimizado: 3741.15 | Total BST: 3309
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #47
+Score Otimizado: 3741.06 | Total BST: 3337
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #48
+Score Otimizado: 3741.06 | Total BST: 3337
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #49
+Score Otimizado: 3740.94 | Total BST: 3293
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #50
+Score Otimizado: 3740.94 | Total BST: 3293
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #51
+Score Otimizado: 3740.70 | Total BST: 3283
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Spaghefant      | Tipo: Ground/Fairy       | BST: 500 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #52
+Score Otimizado: 3740.60 | Total BST: 3349
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #53
+Score Otimizado: 3740.60 | Total BST: 3349
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #54
+Score Otimizado: 3740.47 | Total BST: 3311
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #55
+Score Otimizado: 3740.47 | Total BST: 3311
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #56
+Score Otimizado: 3739.88 | Total BST: 3300
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #57
+Score Otimizado: 3739.70 | Total BST: 3347
+--------------------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Venowatt        | Tipo: Electric/Poison      | BST: 540 | Score Tipagem:   5.00 (Ajustado:  35.84)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #58
+Score Otimizado: 3739.65 | Total BST: 3300
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #59
+Score Otimizado: 3739.65 | Total BST: 3300
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #60
+Score Otimizado: 3739.50 | Total BST: 3345
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #61
+Score Otimizado: 3739.50 | Total BST: 3345
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #62
+Score Otimizado: 3739.06 | Total BST: 3274
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #63
+Score Otimizado: 3739.06 | Total BST: 3274
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #64
+Score Otimizado: 3738.85 | Total BST: 3319
+--------------------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #65
+Score Otimizado: 3738.32 | Total BST: 3326
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #66
+Score Otimizado: 3738.32 | Total BST: 3326
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #67
+Score Otimizado: 3738.13 | Total BST: 3293
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spaghefant      | Tipo: Ground/Fairy       | BST: 500 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #68
+Score Otimizado: 3738.13 | Total BST: 3293
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spaghefant      | Tipo: Ground/Fairy       | BST: 500 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #69
+Score Otimizado: 3737.75 | Total BST: 3315
+--------------------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #70
+Score Otimizado: 3737.67 | Total BST: 3258
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+
+TIME RANK #71
+Score Otimizado: 3737.31 | Total BST: 3310
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #72
+Score Otimizado: 3737.31 | Total BST: 3310
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #73
+Score Otimizado: 3736.91 | Total BST: 3337
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #74
+Score Otimizado: 3736.91 | Total BST: 3337
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #75
+Score Otimizado: 3736.57 | Total BST: 3296
+--------------------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #76
+Score Otimizado: 3736.28 | Total BST: 3329
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #77
+Score Otimizado: 3736.28 | Total BST: 3329
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #78
+Score Otimizado: 3736.25 | Total BST: 3304
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #79
+Score Otimizado: 3736.25 | Total BST: 3304
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #80
+Score Otimizado: 3735.22 | Total BST: 3312
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #81
+Score Otimizado: 3735.22 | Total BST: 3312
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #82
+Score Otimizado: 3735.18 | Total BST: 3325
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #83
+Score Otimizado: 3735.18 | Total BST: 3325
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #84
+Score Otimizado: 3735.09 | Total BST: 3268
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+
+TIME RANK #85
+Score Otimizado: 3735.09 | Total BST: 3268
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score Tipagem:  85.00 (Ajustado:  89.09)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+
+TIME RANK #86
+Score Otimizado: 3734.51 | Total BST: 3274
+--------------------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score Tipagem:  29.00 (Ajustado:  68.02)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score Tipagem:  83.00 (Ajustado:  88.62)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #87
+Score Otimizado: 3734.28 | Total BST: 3285
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #88
+Score Otimizado: 3734.28 | Total BST: 3285
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #89
+Score Otimizado: 3734.28 | Total BST: 3285
+--------------------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score Tipagem:  47.00 (Ajustado:  77.42)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #90
+Score Otimizado: 3734.00 | Total BST: 3306
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #91
+Score Otimizado: 3734.00 | Total BST: 3306
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score Tipagem:  45.00 (Ajustado:  76.57)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Geigh           | Tipo: Fairy/Flying      | BST: 519 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score Tipagem:  92.00 (Ajustado:  90.65)
+
+TIME RANK #92
+Score Otimizado: 3733.56 | Total BST: 3337
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #93
+Score Otimizado: 3733.56 | Total BST: 3337
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #94
+Score Otimizado: 3733.56 | Total BST: 3337
+--------------------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score Tipagem:  10.00 (Ajustado:  47.96)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #95
+Score Otimizado: 3733.45 | Total BST: 3304
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spaghefant      | Tipo: Ground/Fairy       | BST: 500 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #96
+Score Otimizado: 3733.45 | Total BST: 3304
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Spaghefant      | Tipo: Ground/Fairy       | BST: 500 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #97
+Score Otimizado: 3733.40 | Total BST: 3325
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mabster         | Tipo: Water/Fighting    | BST: 540 | Score Tipagem:  40.00 (Ajustado:  74.27)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #98
+Score Otimizado: 3733.40 | Total BST: 3325
+--------------------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mabster         | Tipo: Water/Fighting    | BST: 540 | Score Tipagem:  40.00 (Ajustado:  74.27)
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+
+TIME RANK #99
+Score Otimizado: 3732.83 | Total BST: 3323
+--------------------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Venowatt        | Tipo: Electric/Poison      | BST: 540 | Score Tipagem:   5.00 (Ajustado:  35.84)
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score Tipagem:  72.00 (Ajustado:  85.81)
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score Tipagem:  38.00 (Ajustado:  73.27)
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score Tipagem:  32.00 (Ajustado:  69.93)
+
+TIME RANK #100
+Score Otimizado: 3732.81 | Total BST: 3299
+--------------------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score Tipagem:  15.00 (Ajustado:  55.45)
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score Tipagem:  20.00 (Ajustado:  60.89)
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score Tipagem:  66.00 (Ajustado:  84.09)
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score Tipagem:  56.00 (Ajustado:  80.86)
+• Mabster         | Tipo: Water/Fighting    | BST: 540 | Score Tipagem:  40.00 (Ajustado:  74.27)
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score Tipagem:  49.00 (Ajustado:  78.24)
+

@@ -1,6 +1,7 @@
 import itertools
+import math
 
-# Tabela de eficácia (Geração 6+). 
+# Tabela de eficácia (Geração 6+)
 type_chart = {
     'Normal': {'Rock': 0.5, 'Ghost': 0, 'Steel': 0.5},
     'Fire': {'Fire': 0.5, 'Water': 0.5, 'Grass': 2, 'Ice': 2, 'Bug': 2, 'Rock': 0.5, 'Dragon': 0.5, 'Steel': 2},
@@ -25,68 +26,43 @@ type_chart = {
 types = list(type_chart.keys())
 combinations = list(itertools.combinations_with_replacement(types, 2))
 
+IMMUNITY_VALUE = -3.0  # Valor logarítmico para multiplicador 0
+
 def get_multiplier(atk, dfn):
-    """Retorna o multiplicador de dano direto."""
     return type_chart.get(atk, {}).get(dfn, 1.0)
 
-def calc_defense_score_171(t1, t2):
-    """
-    Simula o Pokémon (t1/t2) recebendo ataques STAB de todos os 
-    171 possíveis atacantes da pokedex teórica.
-    """
-    score = 0
-    for atk1, atk2 in combinations:
-        # O atacante usará o golpe que causar mais dano (melhor STAB)
-        mult1 = get_multiplier(atk1, t1) * (get_multiplier(atk1, t2) if t1 != t2 else 1.0)
-        mult2 = get_multiplier(atk2, t1) * (get_multiplier(atk2, t2) if t1 != t2 else 1.0)
+def to_log(mult):
+    if mult == 0:
+        return IMMUNITY_VALUE
+    return math.log2(mult)
+
+def calc_scores(t1, t2):
+    off_score = 0
+    def_score = 0
+    
+    for o1, o2 in combinations:
+        # OFFENSE: Qual o melhor STAB que (t1,t2) tem contra o oponente (o1,o2)?
+        m1_t1 = get_multiplier(t1, o1) * (get_multiplier(t1, o2) if o1 != o2 else 1.0)
+        m2_t2 = get_multiplier(t2, o1) * (get_multiplier(t2, o2) if o1 != o2 else 1.0)
+        off_score += to_log(max(m1_t1, m2_t2))
         
-        best_incoming_mult = max(mult1, mult2)
-        score += best_incoming_mult
-    return score
-
-# O cálculo ofensivo permanece o mesmo:
-# calc_offense_score(t1, t2) -> Ataca as 171 combinações
-
-
-
-def calc_offense_score(atk1, atk2):
-    """
-    Soma os multiplicadores do melhor ataque (STAB) contra as 171 combinações defensivas.
-    Valores maiores = melhor ataque (causa mais dano no geral).
-    """
-    score = 0
-    for def1, def2 in combinations:
-        mult1 = get_multiplier(atk1, def1) * (get_multiplier(atk1, def2) if def1 != def2 else 1.0)
-        mult2 = get_multiplier(atk2, def1) * (get_multiplier(atk2, def2) if def1 != def2 else 1.0)
+        # DEFENSE: Qual o melhor STAB que o oponente (o1,o2) tem contra você (t1,t2)?
+        m1_o1 = get_multiplier(o1, t1) * (get_multiplier(o1, t2) if t1 != t2 else 1.0)
+        m2_o2 = get_multiplier(o2, t1) * (get_multiplier(o2, t2) if t1 != t2 else 1.0)
+        def_score += to_log(max(m1_o1, m2_o2))
         
-        best_mult = max(mult1, mult2)
-        score += best_mult
-        
-    return score
-
-
+    return off_score, def_score
 
 ranking = []
 for t1, t2 in combinations:
-    # Agora ambos usam a base 171
-    def_score = calc_defense_score_171(t1, t2)
-    off_score = calc_offense_score(t1, t2)
-    
-    total_score = off_score - def_score
+    off, dbf = calc_scores(t1, t2)
+    total = off - dbf
     name = t1 if t1 == t2 else f"{t1}/{t2}"
-    
-    ranking.append({
-        'Tipagem': name,
-        'Ataque': off_score,
-        'Defesa': def_score,
-        'Total': total_score
-    })
+    ranking.append({'Tipo': name, 'Off': off, 'Def': dbf, 'Total': total})
 
-# Ordenar do maior saldo (melhor) para o menor saldo (pior)
 ranking = sorted(ranking, key=lambda x: x['Total'], reverse=True)
 
-# Exibir o Top 20
-print(f"{'Rank':<5} | {'Tipagem':<15} | {'Ataque (Causa)':<15} | {'Defesa (Sofre)':<15} | {'Total (Saldo)'}")
-print("-" * 75)
-for i, r in enumerate(ranking[:171]):
-    print(f"{i+1:<5} | {r['Tipagem']:<15} | {r['Ataque']:<15.2f} | {r['Defesa']:<15.2f} | {r['Total']:.2f}")
+print(f"{'Rank':<5} | {'Tipagem':<15} | {'Ofensivo':<10} | {'Defensivo':<10} | {'Saldo Final'}")
+print("-" * 65)
+for i, r in enumerate(ranking[:172]):
+    print(f"{i+1:<5} | {r['Tipo']:<15} | {r['Off']:>10.2f} | {r['Def']:>10.2f} | {r['Total']:>10.2f}")

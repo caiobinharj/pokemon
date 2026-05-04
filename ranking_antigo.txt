@@ -1,0 +1,504 @@
+RANKING DE TIMES POKÉMON (BEST BST + TYPING SCORE)
+Critério: Melhor Score Combinado (BST + Nota da Tipagem) sem repetição de tipos.
+================================================================================
+
+TIME RANK #1
+Score Total: 3623.00 | Total BST: 3281
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #2
+Score Total: 3614.00 | Total BST: 3268
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #3
+Score Total: 3614.00 | Total BST: 3272
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #4
+Score Total: 3613.00 | Total BST: 3296
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #5
+Score Total: 3613.00 | Total BST: 3296
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #6
+Score Total: 3611.00 | Total BST: 3331
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #7
+Score Total: 3610.00 | Total BST: 3288
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #8
+Score Total: 3607.00 | Total BST: 3341
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #9
+Score Total: 3607.00 | Total BST: 3341
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #10
+Score Total: 3606.00 | Total BST: 3291
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• x tch       | Tipo: Normal/Ghost       | BST: 510 | Score: 544.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #11
+Score Total: 3605.00 | Total BST: 3259
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #12
+Score Total: 3605.00 | Total BST: 3311
+----------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score: 575.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score: 596.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Slugfugg        | Tipo: Water/Poison      | BST: 550 | Score: 608.00
+
+TIME RANK #13
+Score Total: 3604.00 | Total BST: 3293
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #14
+Score Total: 3604.00 | Total BST: 3287
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #15
+Score Total: 3604.00 | Total BST: 3287
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #16
+Score Total: 3604.00 | Total BST: 3258
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score: 583.00
+
+TIME RANK #17
+Score Total: 3604.00 | Total BST: 3283
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #18
+Score Total: 3604.00 | Total BST: 3283
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #19
+Score Total: 3603.00 | Total BST: 3283
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Spookscare      | Tipo: Ground/Ghost       | BST: 530 | Score: 576.00
+
+TIME RANK #20
+Score Total: 3603.00 | Total BST: 3283
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Goryannus       | Tipo: Ground/Ghost       | BST: 530 | Score: 576.00
+
+TIME RANK #21
+Score Total: 3602.00 | Total BST: 3322
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #22
+Score Total: 3602.00 | Total BST: 3304
+----------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score: 575.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Cacademon       | Tipo: Ground/Poison      | BST: 540 | Score: 589.00
+
+TIME RANK #23
+Score Total: 3601.00 | Total BST: 3279
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #24
+Score Total: 3600.00 | Total BST: 3303
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #25
+Score Total: 3600.00 | Total BST: 3268
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score: 583.00
+
+TIME RANK #26
+Score Total: 3600.00 | Total BST: 3268
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score: 583.00
+
+TIME RANK #27
+Score Total: 3600.00 | Total BST: 3303
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #28
+Score Total: 3599.00 | Total BST: 3348
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Funnedong       | Tipo: Normal/Fighting    | BST: 600 | Score: 552.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #29
+Score Total: 3599.00 | Total BST: 3294
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score: 560.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #30
+Score Total: 3598.00 | Total BST: 3332
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #31
+Score Total: 3598.00 | Total BST: 3331
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Dowster         | Tipo: Ghost/Psychic     | BST: 550 | Score: 536.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #32
+Score Total: 3598.00 | Total BST: 3332
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #33
+Score Total: 3597.00 | Total BST: 3282
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Sesquatch       | Tipo: Normal/Ghost       | BST: 510 | Score: 544.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #34
+Score Total: 3597.00 | Total BST: 3306
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Tripsius        | Tipo: Psychic/Electric    | BST: 555 | Score: 544.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #35
+Score Total: 3596.00 | Total BST: 3306
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Sesquatch       | Tipo: Normal/Ghost       | BST: 510 | Score: 544.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #36
+Score Total: 3596.00 | Total BST: 3306
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Sesquatch       | Tipo: Normal/Ghost       | BST: 510 | Score: 544.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #37
+Score Total: 3596.00 | Total BST: 3299
+----------------------------------------
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score: 575.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #38
+Score Total: 3595.00 | Total BST: 3284
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Hornititan      | Tipo: Ice/Ground      | BST: 535 | Score: 583.00
+
+TIME RANK #39
+Score Total: 3595.00 | Total BST: 3274
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #40
+Score Total: 3595.00 | Total BST: 3274
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Machmona        | Tipo: Fighting/Ghost       | BST: 520 | Score: 567.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #41
+Score Total: 3595.00 | Total BST: 3302
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score: 596.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Manatank        | Tipo: Water/Ice         | BST: 552 | Score: 584.00
+
+TIME RANK #42
+Score Total: 3595.00 | Total BST: 3249
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Motherfuck      | Tipo: Ground/Flying      | BST: 500 | Score: 583.00
+
+TIME RANK #43
+Score Total: 3595.00 | Total BST: 3326
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score: 575.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score: 596.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Slugfugg        | Tipo: Water/Poison      | BST: 550 | Score: 608.00
+
+TIME RANK #44
+Score Total: 3595.00 | Total BST: 3326
+----------------------------------------
+• Snugware        | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score: 575.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Mennopaws       | Tipo: Fairy/Ground      | BST: 524 | Score: 596.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Slugfugg        | Tipo: Water/Poison      | BST: 550 | Score: 608.00
+
+TIME RANK #45
+Score Total: 3594.00 | Total BST: 3345
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Upchucken       | Tipo: Normal/Flying      | BST: 559 | Score: 538.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #46
+Score Total: 3594.00 | Total BST: 3274
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Spookscare      | Tipo: Ground/Ghost       | BST: 530 | Score: 576.00
+
+TIME RANK #47
+Score Total: 3594.00 | Total BST: 3274
+----------------------------------------
+• Isissin         | Tipo: Poison/Dark        | BST: 535 | Score: 580.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Baitmaster      | Tipo: Water/Fairy       | BST: 527 | Score: 612.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Goryannus       | Tipo: Ground/Ghost       | BST: 530 | Score: 576.00
+
+TIME RANK #48
+Score Total: 3593.00 | Total BST: 3352
+----------------------------------------
+• Fleespecs       | Tipo: Electric/Bug         | BST: 545 | Score: 560.00
+• Premantom       | Tipo: Dark/Ghost       | BST: 555 | Score: 575.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Nomaestro       | Tipo: Fairy/Flying      | BST: 545 | Score: 555.00
+• Farfigtron      | Tipo: Fire/Fighting    | BST: 552 | Score: 590.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #49
+Score Total: 3593.00 | Total BST: 3274
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Thundacock      | Tipo: Electric/Flying      | BST: 530 | Score: 570.00
+• Deisnutz        | Tipo: Ghost/Fairy       | BST: 500 | Score: 561.00
+• Finasoven       | Tipo: Fire/Rock        | BST: 545 | Score: 560.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
+TIME RANK #50
+Score Total: 3593.00 | Total BST: 3353
+----------------------------------------
+• Florious        | Tipo: Poison/Dark        | BST: 544 | Score: 589.00
+• Cannonance      | Tipo: Dragon/Steel       | BST: 600 | Score: 666.00
+• Spilefree       | Tipo: Electric/Ghost       | BST: 535 | Score: 564.00
+• Mozzamazel      | Tipo: Fairy/Fire        | BST: 519 | Score: 575.00
+• Funnedong       | Tipo: Normal/Fighting    | BST: 600 | Score: 552.00
+• Semdemen        | Tipo: Water/Ground      | BST: 555 | Score: 647.00
+
